@@ -174,7 +174,7 @@
 
 			#header:after {
 				position: absolute;
-				top: 132px;
+				top: 142px;
 				left: 0px;
 				z-index: -1;
 				width: 100%;
@@ -187,7 +187,7 @@
 
 			#header-img {
 				position: absolute;
-				top: 130px;
+				top: 140px;
 				left: 0px;
 				z-index: 99;
 				width: 44px;
@@ -203,7 +203,7 @@
 				display: block;
 				visibility: visible !important;
 				position: absolute;
-				left: 40px;
+				left: 70px;
 				z-index: 99;
 				background-image: url(%%logo%%);
 				background-position: 0px 0px;
@@ -220,13 +220,13 @@
 		#header .tabmenu {
 			display: block;
 			position: absolute;
-			top: 132px;
+			top: 142px;
 			margin: 0px;
 			right:0px;
 			left: 0px;
 			padding: 0px;
 			height: 44px;
-			background-color: transparent;
+			background-color: #000000;
 			border-bottom: 0px solid;
 			color: #999;
 			list-style-type: none;
@@ -251,20 +251,20 @@
 					background-color: transparent;
 					border: 0px solid;
 					border-bottom: 2px solid transparent;
-					color: #999;
+					color: #333333;
 					font-weight: normal;
 					font-size: 22px;
 					font-family: Calibri,Candara,Segoe,"Segoe UI",Optima,Arial,sans-serif;
 				}
 
-					.tabmenu li a:hover {border-bottom-color: #e20025;color: #262626;text-decoration: none;}
+					.tabmenu li a:hover {border-bottom-color: #e20025;text-decoration: none;}
 			
 				.tabmenu li.selected a {
 					z-index: 100;
 					background-color: transparent;
 					border: 0px solid;
 					border-bottom: 2px solid #e20025;
-					color: #262626;
+					color: #FFFFFF;
 					font-size: 22px;
 					font-family: Calibri,Candara,Segoe,"Segoe UI",Optima,Arial,sans-serif;
 				}
@@ -287,11 +287,11 @@
 		/* User bar */
 		#header-bottom-right {
 			position: absolute;
-			top: 141px;
+			top: 151px;
 			right: 0px;
 			padding: 8px 15px 7px 15px;
 			width: auto;
-			height: 12px;
+			height: 20px;
 			background-color: #fff;
 		}
 			.user {color: #7A7A7A;}
@@ -436,9 +436,9 @@
 			}
 
 				.morelink:hover {
-					background-color: #7BA8FF;
-					border-top: 2px solid #7BA8FF;
-					border-bottom: 3px solid #3863B6;
+					background-color: #e20025;
+					border-top: 2px solid #e20025;
+					border-bottom: 3px solid #333333;
 				}
 
 					.morelink:active {
@@ -451,7 +451,7 @@
 
 				.morelink a {
 					color: #fff !important;
-					text-shadow: 0px 1px 0px #5787e1;
+					text-shadow: 0px 1px 0px #333333;
 					letter-spacing: 0px;
 					font-weight: bold;
 					font-size: 15px;
@@ -799,7 +799,7 @@
 					color: #fff !important;
 					text-align: center;
 					text-transform: capitalize;
-					text-shadow: 0px 1px 0px #5787e1;
+					text-shadow: 0px 1px 0px #333333;
 					letter-spacing: 0px;
 					font-weight: bold;
 					font-size: 13px;
@@ -809,9 +809,10 @@
 				}
 
 					.sidecontentbox a.helplink:hover {
-						background-color: #6599fa;
-						border-top: 2px solid #6599fa;
-						border-bottom: 2px solid #3863b6;
+
+						background-color: #e20025;
+						border-top: 2px solid #e20025;
+						border-bottom: 3px solid #333333;
 						-webkit-box-shadow: none;
 						box-shadow: none;
 						text-decoration: none;
@@ -2316,11 +2317,11 @@
 
 	/* CUSTOM LOGO CSS */
 		.pagename a {
-			top: 5px; /* The length the logo is moved from the top of the page */
-			width: 141px; /* TOTAL Image width */
-			height: 140px; /* 50% of the TOTAL height of the image. */
+			top: 20px; /* The length the logo is moved from the top of the page */
+			width: 93px; /* TOTAL Image width */
+			height: 117px; /* 50% of the TOTAL height of the image. */
 		}
 	
-			.pagename a:hover {background-position: 0px -140px;} /* Replace the 77 with your height */
+			.pagename a:hover {background-position: 0px -117;} /* Replace the 77 with your height */
 
 	/* --------------------------- */
