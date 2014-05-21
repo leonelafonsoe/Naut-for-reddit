@@ -49,11 +49,11 @@
 				color: #555555;
 			}
 		
-		::selection {background-color:#5b92fa;color:white;font-weight:bold;}
+		::selection {background-color:#e20025;color:white;font-weight:bold;}
 
 		/* Link */
 		a {
-			color: #5b92fa;
+			color: #e20025;
 		}
 		
 			a:hover {
@@ -149,7 +149,7 @@
 			}
 
 				#sr-header-area .width-clip .dropdown.srdrop .selected.title:hover {
-					color: #5b92fa;
+					color: #e20025;
 				}
 
 			#sr-header-area .drop-choices a.choice {
@@ -157,7 +157,7 @@
 			}
 
 			 #sr-header-area .drop-choices a.choice:hover {
-			 	background-color: #5b92fa;
+			 	background-color: #e20025;
 			 	color: #fff !important;
 			 }
 		
@@ -203,7 +203,7 @@
 				display: block;
 				visibility: visible !important;
 				position: absolute;
-				left: 8px;
+				left: 40px;
 				z-index: 99;
 				background-image: url(%%logo%%);
 				background-position: 0px 0px;
@@ -257,13 +257,13 @@
 					font-family: Calibri,Candara,Segoe,"Segoe UI",Optima,Arial,sans-serif;
 				}
 
-					.tabmenu li a:hover {border-bottom-color: #5b92fa;color: #262626;text-decoration: none;}
+					.tabmenu li a:hover {border-bottom-color: #e20025;color: #262626;text-decoration: none;}
 			
 				.tabmenu li.selected a {
 					z-index: 100;
 					background-color: transparent;
 					border: 0px solid;
-					border-bottom: 2px solid #5b92fa;
+					border-bottom: 2px solid #e20025;
 					color: #262626;
 					font-size: 22px;
 					font-family: Calibri,Candara,Segoe,"Segoe UI",Optima,Arial,sans-serif;
@@ -304,7 +304,7 @@
 			}
 
 				#header-bottom-right a:hover {
-					border-bottom: 1px solid #5b92fa;
+					border-bottom: 1px solid #e20025;
 					color: #333;
 					text-decoration: none;
 				}
@@ -409,7 +409,7 @@
 				display: block;
 				margin: 10px 0px;
 				padding: 10px 0px;
-				color: #5b92fa;
+				color: #e20025;
 				content: "This subreddit uses /r/naut!"; /* Hey! Please don't remove or change this. */
 				text-transform: none;
 				font-size: 16px;
@@ -424,11 +424,11 @@
 				z-index: 97;
 				width: 270px;
 				height: 28px;
-				background-color: #5B92FA;
+				background-color: #e20025;
 				background-image: none!important;
 				border: none;
-				border-top: 2px solid #5B92FA;
-				border-bottom: 3px solid #5B92FA;
+				border-top: 2px solid #e20025;
+				border-bottom: 3px solid #e20025;
 				border-radius: 1px;
 				-webkit-box-shadow: 0 1px 2px #CECECE;
 				box-shadow: 0 1px 2px #CECECE;
@@ -468,7 +468,7 @@
 						top: 4px;
 						right: 30px;
 						z-index: 98;
-						background-color: #5B92FA;
+						background-color: #e20025;
 						color: #FFF;
 						content: "Submit Content";
 						padding: 0px 12px;
@@ -511,7 +511,7 @@
 				font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
 			}
 			
-				.titlebox h1 a:hover {color: #5b92fa;text-decoration: none;}
+				.titlebox h1 a:hover {color: #e20025;text-decoration: none;}
 
 			.sidebox .subtitle {font-size: 1.6em;}
 		
@@ -533,9 +533,9 @@
 
 				/* Sub */
 				.fancy-toggle-button .add {
-					background-color: #5b92fa;
-					border-top: 2px solid #5b92fa;
-					border-bottom: 2px solid #5b92fa;
+					background-color: #e20025;
+					border-top: 2px solid #e20025;
+					border-bottom: 2px solid #e20025;
 					-webkit-box-shadow: 0 1px 0 #e2e0e0;
 					box-shadow: 0 1px 0 #e2e0e0;					
 				}
@@ -593,7 +593,7 @@
 					top: 4px;
 					right: 25px;
 					z-index: 98;
-					background-color: #5B92FA;
+					background-color: #e20025;
 					color: #FFF;
 					content: "Subscribe Now";
 					padding: 0px 16px;
@@ -641,7 +641,7 @@
 					width: 100%;
 					height: 30px;
 					color: #fff;
-					background-color: #5b92fa;
+					background-color: #e20025;
 					border-bottom: 2px solid #306cd1;
 					display: block;
 					font-size: 18px;
@@ -659,7 +659,7 @@
 
 					.titlebox h5:hover {
 						background-color: #77a7fb;
-						border-bottom: 2px solid #5b92fa;
+						border-bottom: 2px solid #e20025;
 						text-decoration: none;
 					}
 
@@ -764,7 +764,7 @@
 				}
 			
 					.sidecontentbox .content a:hover {
-						color: #5b92fa;
+						color: #e20025;
 						text-decoration: underline;
 					}
 
@@ -789,11 +789,11 @@
 					margin-right: 27px;
 					margin-bottom: 15px;
 					width: 80%;
-					background-color: #5b92fa;
+					background-color: #e20025;
 					background-image: none!important;
 					border: none;
-					border-top: 2px solid #5b92fa;
-					border-bottom: 2px solid #5b92fa;
+					border-top: 2px solid #e20025;
+					border-bottom: 2px solid #e20025;
 					-webkit-box-shadow: 0 1px 0 #E2E0E0;
 					box-shadow: 0 1px 0 #E2E0E0;
 					color: #fff !important;
@@ -863,7 +863,7 @@
 					}
 
 						.titlebox h6 a:hover {
-							border-bottom-color: #5b92fa !important;
+							border-bottom-color: #e20025 !important;
 							color: #262626 !important;
 							text-decoration: none;
 						}
@@ -889,7 +889,7 @@
 								border-bottom: 0px solid;
 							}
 
-						.new-page .titlebox h6 a[href*="/new"], .top-page .titlebox h6 a[href*="/top"], .hot-page .titlebox h6 a[href*="/hot"]  {border-bottom:2px solid #5b92fa; color: #262626;}
+						.new-page .titlebox h6 a[href*="/new"], .top-page .titlebox h6 a[href*="/top"], .hot-page .titlebox h6 a[href*="/hot"]  {border-bottom:2px solid #e20025; color: #262626;}
 
 
 			.link {
@@ -932,11 +932,11 @@
 						font-family: Arial, sans-serif;
 					}
 
-					.link .title:hover {color: #5b92fa !important;}
+					.link .title:hover {color: #e20025 !important;}
 						/* Link Titles */
-		/*Unvisited*/	.thing .title.loggedin.click, .thing .title.click, .thing .title.loggedin, .thing .title {color:#5b92fa;}
+		/*Unvisited*/	.thing .title.loggedin.click, .thing .title.click, .thing .title.loggedin, .thing .title {color:#e20025;}
 		/*Visited  */	.thing .title:visited, .thing.visited .title {color:#7D5D8A;}
-		/*Clicking */	.thing .title.loggedin.click:visited, .thing .title.click:visited {color:#5b92fa;}
+		/*Clicking */	.thing .title.loggedin.click:visited, .thing .title.click:visited {color:#e20025;}
 
 				/* Upvote and downvotes */
 				.link .score {margin-bottom: -1px;margin-left: 1px;color:#999;font-family: arial, sans-serif;}
@@ -1003,7 +1003,7 @@
 
 			.domain {color: white;}
 				.domain a {color: #c0c0c0;}
-					.domain a:hover {color: #5b92fa;text-decoration: none;}
+					.domain a:hover {color: #e20025;text-decoration: none;}
 
 			.link .tagline {
 				color: #999;
@@ -1047,7 +1047,7 @@
 				}
 
 					.entry .buttons li a:hover {
-						color: #5b92fa;
+						color: #e20025;
 					}
 
 					.link .entry li a {opacity: 0;}
@@ -1056,7 +1056,7 @@
 
 					.link .entry li .comments {
 						opacity: 100 !important;
-						color: #5b92fa;
+						color: #e20025;
 						font-weight: bold;
 						font-size: 13px;
 					}
@@ -1064,7 +1064,7 @@
 					.nsfw-stamp acronym {opacity: 100;background-color: #e82e63;border-radius:0px;color:#fff;cursor: help;border-color: #e82e63;}
 
 					.entry .buttons a[onclick*="reply"] {
-						color: #5b92fa !important;
+						color: #e20025 !important;
 						font-weight: bold !important;
 						font-size: 13px !important;
 					}
@@ -1156,7 +1156,7 @@
 				.nextprev a {
 					background-color: transparent;
 					border: none;
-					color: #5b92fa;
+					color: #e20025;
 				}
 
 					.nextprev a:hover {
@@ -1189,14 +1189,14 @@
 			
 			.submit-page .tabmenu li a {margin:0px;}
 			.submit-page ul.tabmenu.formtab {padding-left: 0px;width: 500px;text-align:center; }
-			.formtabs-content {padding-top: 0px;border-top: 4px solid #5b92fa;}	
+			.formtabs-content {padding-top: 0px;border-top: 4px solid #e20025;}	
 		
 				.submit-page .tabmenu.formtab a {
 					padding: 5px 55px 0px 55px;
 					width: 100px;
 					background-color: white;
 					border: 0px solid;
-					color: #5b92fa;
+					color: #e20025;
 					text-align: center;
 					font-weight:normal;
 					font-size: 14px;
@@ -1207,7 +1207,7 @@
 				
 					.submit-page .tabmenu.formtab .selected a {
 						padding: 5px 60px 0px 60px;
-						background-color: #5b92fa;
+						background-color: #e20025;
 						color: #fff;
 						font-size: 18px;
 					}
@@ -1253,7 +1253,7 @@
 			}
 
 				.submit-page button:hover {
-					background-color: #5b92fa;
+					background-color: #e20025;
 					color: white !important;
 					border-bottom: 4px solid #477ADB;
 				}
@@ -1371,7 +1371,7 @@
 			}
 
 			.linkflair-extra .linkflairlabel {
-				background-color: #5b92fa;
+				background-color: #e20025;
 				color: #fff;
 			}
 
@@ -1409,7 +1409,7 @@
 		
 				.linefield .title {
 					padding: 1px 10px;
-					color: #5b92fa;
+					color: #e20025;
 				}
 
 				.linefield .title+.gray {font-size: small;}
@@ -1501,7 +1501,7 @@
 					}
 
 					.wiki-page .pageactions .wikiaction-current {
-						background-color: #5b92fa;
+						background-color: #e20025;
 						border-radius: 0px;
 						color: #fff;
 					}
@@ -1560,7 +1560,7 @@
 			.sheets .btn.right {display: none;}
 			.sheets .col textarea {width: 100%;background-color: #fff;}
 				.sheets .col textarea:hover {border-color: #B1B1B1;}
-					.sheets .col textarea:focus {border-color: #5b92fa;}
+					.sheets .col textarea:focus {border-color: #e20025;}
 			.sheets {margin-right: 0px;}
 		
 		#images {
@@ -1607,7 +1607,7 @@
 			
 			a.author {
 				margin-right:4px;
-				color: #5b92fa;
+				color: #e20025;
 			}
 				
 			.comments-page .tagline {
@@ -1619,7 +1619,7 @@
 				.comments-page .tagline a {
 					margin-top: 1px;
 					background-color: transparent;
-					color: #5b92fa;
+					color: #e20025;
 					letter-spacing: 1px;
 					font-weight: bold;
 					font-size: 12px;
@@ -1670,11 +1670,11 @@
 					.menuarea .spacer .drop-choices.lightdrop a.choice, .commentarea .menuarea form {
 						padding: 0.5px;
 						font-size: 14px;
-						color: #5b92fa;
+						color: #e20025;
 					}
 
 					.menuarea .spacer .drop-choices.lightdrop a.choice:hover, .commentarea .menuarea form:hover {
-						background-color: #5b92fa;
+						background-color: #e20025;
 						color: #fff;
 						text-decoration: none;
 					}
@@ -1688,7 +1688,7 @@
 					cursor: pointer;
 				}
 
-					.menuarea .dropdown.lightdrop .selected:hover {color: #5b92fa;}
+					.menuarea .dropdown.lightdrop .selected:hover {color: #e20025;}
 					.menuarea .dropdown.lightdrop .selected:after {
 						content: " ≡";
 						vertical-align: middle;
@@ -1760,7 +1760,7 @@
 		}
 
 			.link .usertext .md h2, .comments-page .comment .md h2 {color: #d73d32;}
-			.link .usertext .md h3, .comments-page .comment .md h3 {color: #5b92fa;}
+			.link .usertext .md h3, .comments-page .comment .md h3 {color: #e20025;}
 			.link .usertext .md h4, .comments-page .comment .md h4 {color: #53a93f;}
 			.link .usertext .md h5, .comments-page .comment .md h5 {color: #f4b400;}
 
@@ -1784,7 +1784,7 @@
 			}
 
 				.footer a:hover {
-					color: #5b92fa;
+					color: #e20025;
 					text-decoration: underline;
 				}
 
@@ -1921,7 +1921,7 @@
 			background-image: none !important;
 			border: 0px solid !important;
 			border-radius: 0px !important;
-			color: #5b92fa !important;
+			color: #e20025 !important;
 			text-transform: capitalize !important;
 			font-weight: 500 !important;
 			font-size: 14px !important;
@@ -1944,7 +1944,7 @@
 				background-image: none !important;
 				border: 0px solid !important;
 				border-radius: 0px !important;
-				color: #5b92fa !important;
+				color: #e20025 !important;
 				text-transform: capitalize !important;
 				font-weight: 500 !important;
 				font-size: 14px !important;
@@ -2004,7 +2004,7 @@
 			background-color: white !important;
 			border: 0px solid !important;
 			border-radius: 0px !important;
-			color: #5b92fa !important;
+			color: #e20025 !important;
 		}
 		
 		.res #header-bottom-right {
@@ -2212,7 +2212,7 @@
 	.res-nightmode .link .score.dislikes, .res-nightmode .linkcompressed .score.dislikes, .res-nightmode a[rel="tag"], .res-nightmode .dsq-help, 
 	.res-nightmode #authorInfoToolTip h3 a, .res-nightmode .RES-keyNav-activeElement .md, .res-nightmode .help-toggle .option, 
 	.res-nightmode .morecomments a, .res-nightmode .reddiquette, .res-nightmode .parent .author, .res-nightmode .parent .subreddit, 
-	.res-nightmode .comment .md p a {color: #5B92FA !important;}
+	.res-nightmode .comment .md p a {color: #e20025 !important;}
 
 	.res-nightmode .side:after {content: "Hello nightmode user. You're very brave."}
 
@@ -2272,8 +2272,8 @@
 			}
 
 			.linkflair-three .linkflairlabel {
-				background-color: #5b92fa;
-				border: 1px solid #3a7ae6;
+				background-color: #e20025;
+				border: 1px solid #333333;
 				color: #fff;
 			}
 
@@ -2282,8 +2282,8 @@
 						/* "squee" can be anything! 
 						This is what you use in the CSS field at the flair page */
 				.linkflair-squee .linkflairlabel { 
-				background-color: #5b92fa; /* Base color */
-				border: 1px solid #3a7ae6;	/* Slightly darker to create nice edges */
+				background-color: #e20025; /* Base color */
+				border: 1px solid #333333;	/* Slightly darker to create nice edges */
 				color: #fff; /* Text color - alternatively use #333 when white is too light */
 				}
 
@@ -2316,11 +2316,11 @@
 
 	/* CUSTOM LOGO CSS */
 		.pagename a {
-			top: 84px; /* The length the logo is moved from the top of the page */
-			width: 185px; /* TOTAL Image width */
-			height: 43px; /* 50% of the TOTAL height of the image. */
+			top: 5px; /* The length the logo is moved from the top of the page */
+			width: 141px; /* TOTAL Image width */
+			height: 140px; /* 50% of the TOTAL height of the image. */
 		}
 	
-			.pagename a:hover {background-position: 0px -43px;} /* Replace the 77 with your height */
+			.pagename a:hover {background-position: 0px -140px;} /* Replace the 77 with your height */
 
 	/* --------------------------- */
